@@ -31,3 +31,10 @@ $ config system interface
 $ edit <port_number>
 $ get
 ```
+
+### Use this command only on the VM evaluate licence 
+
+```bash
+# Reset the vm on the facoty default configuration
+$ exec factoryreset
+```
