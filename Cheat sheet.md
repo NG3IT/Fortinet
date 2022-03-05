@@ -1,7 +1,5 @@
 # Fortinet 
 
-[Title1](url)
-
 ---
 
 ## CLI
